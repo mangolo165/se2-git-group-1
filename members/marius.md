@@ -1,3 +1,3 @@
 # Marius
-- Lieblings-Programmiersprache:
-- Das möchte ich über Git lernen:
+- Lieblings-Programmiersprache: Dart (Flutter) und TypeScript
+- Das möchte ich über Git lernen: Branches, Pull Requests und Merge-Konflikte sicher beherrschen.
