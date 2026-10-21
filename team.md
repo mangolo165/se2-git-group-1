@@ -1,7 +1,7 @@
 # Unser Team
 
 ## Teamname
-TBD
+Commit Banausen
 
 ## Teammotto
 TBD
