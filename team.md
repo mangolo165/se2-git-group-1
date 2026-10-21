@@ -1,7 +1,7 @@
 # Unser Team
 
 ## Teamname
-TBD
+Commit Crew
 
 ## Teammotto
 TBD
