@@ -4,7 +4,7 @@
 Commit Banausen Crew
 
 ## Teammotto
-TBD
+Früh committen, gemeinsam weiterkommen.
 
 ## Lieblings-IDE
 TBD
