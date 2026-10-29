@@ -4,7 +4,7 @@
 Commit Banausen Crew
 
 ## Teammotto
-Sauber committen, sauber mergen.
+Früh und sauber committen, gemeinsam weiterkommen und sauber mergen.
 
 ## Lieblings-IDE
 TBD
